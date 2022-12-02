@@ -5,7 +5,8 @@
 	This is a sample project to learn Git and GitHub.
 	
 ## Purpose
-
+	The purpose of this project is to use this as a play ground.
+	
 ## Deployment
 
 ## Contribute
