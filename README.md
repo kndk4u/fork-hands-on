@@ -8,5 +8,7 @@
 	The purpose of this project is to use this as a play ground.
 	
 ## Deployment
-
+	The deployment can be done anytime.
+	
 ## Contribute
+	Anyone can fork into this project and do their contributions.
