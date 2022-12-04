@@ -3,3 +3,5 @@ This is a sample file
 Added a new line
 
 Added a new line
+
+Added a new line for auto merge
