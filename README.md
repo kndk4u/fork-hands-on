@@ -12,3 +12,6 @@
 	
 ## Contribute
 	Anyone can fork into this project and do their contributions.
+	
+## Funding
+	You can fund this project using this developer@paypal.me account.
