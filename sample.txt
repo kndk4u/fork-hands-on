@@ -7,3 +7,5 @@ added line from both main & feature branch
 added line from remote
 
 added line for stash example
+
+added another line for stash example
