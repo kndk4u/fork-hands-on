@@ -2,4 +2,4 @@ This is a sample file
 
 add a line before branching
 
-added line from main branch 
+added line from both main & feature branch 
