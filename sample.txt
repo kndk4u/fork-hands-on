@@ -7,3 +7,5 @@ Added a new line
 Added a new line for auto merge
 
 Added a new line for conflict merge in main
+
+changes to depict rebase 1
