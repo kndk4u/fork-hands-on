@@ -4,7 +4,7 @@ add a line before branching
 
 updated a line in main branch 
 
-added line from remote
+updated another line in main branch 
 
 added line for stash example
 
