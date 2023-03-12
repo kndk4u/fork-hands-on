@@ -1,3 +1,5 @@
 This is my sample file
 
 cleaned the stuff
+
+added new line
